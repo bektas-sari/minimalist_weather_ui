@@ -7,13 +7,6 @@ day/night modes — all using **fake weather data** (no API).
 
 ---
 
-## 📱 Preview
-
-> ![App Screenshot Placeholder](assets/images/preview.png)  
-> *Note: Replace with actual screenshot from your emulator or device.*
-
----
-
 ## 🚀 Features
 
 - 🌇 Day/Night dynamic background (based on fake time)
