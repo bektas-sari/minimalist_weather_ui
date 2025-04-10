@@ -35,8 +35,6 @@ minimalist_weather_ui/
 ├── assets/
 │   └── images/
 │       ├── weather_bg.jpg
-│       ├── day_bg.jpg
-│       └── night_bg.jpg
 ├── pubspec.yaml
 └── README.md
 ```
