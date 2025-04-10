@@ -89,8 +89,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]  
-[YourWebsite.com](https://yourwebsite.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Developed by [Bektas SARI]  
+E-Mail: bektas.sari@gmail.com
 
 ---
 
