@@ -1,6 +1,9 @@
 # 🌤️ Minimalist Weather UI - Flutter Demo
 
-A clean, modern, and responsive weather UI demo created with Flutter. This application demonstrates basic UI/UX practices including city selection, weather visualization using icons, and dynamic background transitions based on day/night modes — all using **fake weather data** (no API).
+A clean, modern, and responsive weather UI demo created with Flutter. 
+This application demonstrates basic UI/UX practices including city selection, 
+weather visualization using icons, and dynamic background transitions based on 
+day/night modes — all using **fake weather data** (no API).
 
 ---
 
