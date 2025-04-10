@@ -45,7 +45,7 @@ minimalist_weather_ui/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/minimalist_weather_ui.git
+git clone https://github.com/bektas-sari/minimalist_weather_ui.git
 cd minimalist_weather_ui
 ```
 
@@ -56,8 +56,6 @@ flutter pub get
 
 ### 3. Add Assets
 Make sure you have the following images in `assets/images/`:
-- `day_bg.jpg`
-- `night_bg.jpg`
 - `weather_bg.jpg`
 
 Update `pubspec.yaml`:
@@ -65,8 +63,6 @@ Update `pubspec.yaml`:
 flutter:
   assets:
     - assets/images/weather_bg.jpg
-    - assets/images/day_bg.jpg
-    - assets/images/night_bg.jpg
 ```
 
 ### 4. Run the app
@@ -87,7 +83,7 @@ flutter run
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 ---
 
