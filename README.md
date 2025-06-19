@@ -1,4 +1,4 @@
-# 🌤️ Minimalist Weather UI - Flutter Demo
+# 🌤️ Minimalist Weather UI - Flutter App
 
 A clean, modern, and responsive weather UI demo created with Flutter. 
 This application demonstrates basic UI/UX practices including city selection, 
