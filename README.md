@@ -99,4 +99,3 @@ Academia: https://independent.academia.edu/bektassari <br>
 
 ---
 
-Enjoy building beautiful weather experiences with Flutter! ☀️
